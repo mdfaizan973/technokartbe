@@ -1,0 +1,52 @@
+{
+  "invioces": [
+    {
+      "id": "653bc3f9ccbf2df7227864c2",
+      "invoiceDate": "2023-10-10",
+      "invoiceNumber": 34,
+      "invoiceAmount": 43,
+      "financialYear": "2023-2024",
+      "__v": 0
+    },
+    {
+      "id": "653bfa0952b4365fe75e053d",
+      "invoiceDate": "2023-10-28",
+      "invoiceNumber": 342,
+      "invoiceAmount": 34,
+      "financialYear": "2023-2024",
+      "__v": 0
+    },
+    {
+      "id": "653bfbc552b4365fe75e054f",
+      "invoiceDate": "2023-10-18",
+      "invoiceNumber": 23,
+      "invoiceAmount": 24332,
+      "financialYear": "2023-2024",
+      "__v": 0
+    },
+    {
+      "id": "653c0041ff51e14c4b1f3c18",
+      "invoiceDate": "2023-10-11",
+      "invoiceNumber": 432,
+      "invoiceAmount": 34,
+      "financialYear": "2023-2024",
+      "__v": 0
+    },
+    {
+      "id": "653c059530aa82c2d2f2434d",
+      "invoiceDate": "2023-10-27",
+      "invoiceNumber": 43,
+      "invoiceAmount": 34,
+      "financialYear": "2023-2024",
+      "__v": 0
+    },
+    {
+      "id": "653c8f390a37b46d98db33f7",
+      "invoiceDate": "2023-10-25",
+      "invoiceNumber": 38,
+      "invoiceAmount": 3454,
+      "financialYear": "2023-2024",
+      "__v": 0
+    }
+  ]
+}
